@@ -1,4 +1,4 @@
-<img scr="https://media.licdn.com/dms/image/v2/D5616AQGgDixHrc0RmQ/profile-displaybackgroundimage-shrink_350_1400/B56Zo4j.cQHQAc-/0/1761885547484?e=1764201600&v=beta&t=gNzAUR4pHnbrEstA5gCh4JNbjnTSWxoCVWpvPeg-NtA">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGgDixHrc0RmQ/profile-displaybackgroundimage-shrink_350_1400/B56Zo4j.cQHQAc-/0/1761885547484?e=1764201600&v=beta&t=gNzAUR4pHnbrEstA5gCh4JNbjnTSWxoCVWpvPeg-NtA">
 
 
 <h3 align="center">Professional Web Designer, Developer & WordPress Specialist. E-commerce & Branding Solutions for all Businesses. | HTML | CSS | Bootstrap | JavaScript | PHP |</h3>

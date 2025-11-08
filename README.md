@@ -1,6 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGgDixHrc0RmQ/profile-displaybackgroundimage-shrink_350_1400/B56Zo4j.cQHQAc-/0/1761885547484?e=1764201600&v=beta&t=gNzAUR4pHnbrEstA5gCh4JNbjnTSWxoCVWpvPeg-NtA">
-
-
+<h1 align="center">Hi 👋, I'm Md. Shahinur Rahman</h1>
 <h3 align="center">Professional Web Designer, Developer & WordPress Specialist. E-commerce & Branding Solutions for all Businesses. | HTML | CSS | Bootstrap | JavaScript | PHP |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshahinur&label=Profile%20views&color=0e75b6&style=flat" alt="devshahinur" /> </p>
@@ -21,6 +19,8 @@
 
 - 📫 How to reach me **shahinurcwbd@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rJVGc1RnN1GCLT800FXYR2LI_bOSqfBA/view?usp=drive_link](https://drive.google.com/file/d/1rJVGc1RnN1GCLT800FXYR2LI_bOSqfBA/view?usp=drive_link)
+
 - ⚡ Fun fact **Learning**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devshahinur&show_icons=true&locale=en" alt="devshahinur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshahinur&" alt="devshahinur" /></p>
-
